@@ -8,3 +8,12 @@ SGD: it is fast, requires low memory and in general good for big data sets
 
 GD will always find better minima than SGD, however will take longer to converge.
 
+
+
+02 )  What is a difference between supervised and unsupervised learning? Give an example of both.
+ 
+03 ) How SVM algorithm works (general description)? 
+
+04 ) How to make sure you are not overfitting while training a model? 
+
+05 )  How do you measure accuracy or the error rates?
